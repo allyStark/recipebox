@@ -1,0 +1,92 @@
+.grid1 {
+  
+  border: white 3px solid;
+  margin: 20px 0px 20px 0px;
+  border-radius: 5%;
+  background-color: #FBC93D;
+  
+}
+
+.inner-part {
+  
+  margin: 10px auto auto auto;
+  width: 90%;
+  
+}
+
+.buttons{
+  
+  font-family: 'Cabin Sketch', cursive;
+  font-size: 300%;
+  height: 100px;
+  border: white 2px solid;
+  
+}
+
+.addButton {
+  
+  margin: 20px 0px 20px 0px;
+  position: relative;
+  left: 5px;
+  font-family: 'Cabin Sketch', cursive;
+  height: 70px;
+  width: 150px;
+  font-size: 180%;
+  border: white 2px solid;
+  
+}
+
+.grid {
+  
+  margin: 5px 5px 5px 5px;
+  
+}
+
+textarea {
+  
+  resize: none;
+  width: 350px;
+  height: 100px;
+  overflow: auto;
+  
+}
+
+#nameInput {
+  
+  height: 25px;!important
+  
+}
+
+h1 {
+  
+  font-family: 'Cabin Sketch', cursive;
+  font-size: 500%;
+  margin-top: 50px;
+  color: white;
+  border: 3px white solid; 
+  background-color: #D9534F;
+  margin-left: 30px;
+  border-radius: 50%;
+  
+}
+
+.menu {
+  
+  font-family: 'Cabin Sketch', cursive;
+  font-size: 300%;
+  
+}
+
+.user-info {
+  
+  font-family: 'Amatic SC', cursive;
+  font-size: 250%;
+  
+}
+
+body {
+
+  background-image: url('bg.jpg');
+  background-repeat: repeat;
+  
+}
